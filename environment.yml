@@ -1,0 +1,8 @@
+name: Alemana
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - owslib = 0.31.0
+ - ipyleaflet = 0.18.2
+ 
